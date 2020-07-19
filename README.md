@@ -35,3 +35,4 @@ I am DevOps Engineer evolved from Database Administrator in **Deutsche Telekom I
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></code>
