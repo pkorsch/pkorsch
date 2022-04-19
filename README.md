@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am DevOps Engineer evolved from Database Administrator in **Deutsche Telekom IT Solutions Slovakia.**
+I was Database Administrator for more than 5 years with experience in Oracle Databases, MongoDB, and MySQL administration in Deutsche Telekom. My role has changed and evolved from classic operations to DevOps.
+
+First years I mainly worked with Oracle databases in various environments (AIX, Solaris, Linux) until Deutsche Telekom decided to consolidate all oracle databases to one platform - Oracle Exadata - Oracle DBaaS.
+
+Currently, I am DevOps Engineer and Tech Lead of the team responsible for the MongoDB DBaaS platform for Deutsche Telekom. The system is built on the Open Telekom Cloud platform, which is very similar to Amazon Web Services. In a cloud environment, we are not responsible only for databases but also for the operating systems, storage, network, automation, etc. During the built-up and automation, I learned a lot of new skills like Ansible, Terraform, OpenStack, Git, working with Rest API, and using Gitlab with CI/CD pipelines. Those skills moved me to my current position.**
 
 #### Experience with:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
