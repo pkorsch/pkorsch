@@ -28,4 +28,4 @@ From 2022, I work as a DevSecOps Engineer, focusing on hardening cloud OS and co
 Colleagues describe me as a self-driven and curious professional who thrives on learning new skills independently through documentation and online courses. I take pride in being a supportive team member, always ready to lend a hand.
 
 Beyond Work
-In my free time, I enjoy spending time with my family, traveling, reading sci-fi books (https://www.martinus.sk/u/Peter-Korsch), and exploring new skills on platforms like Udemy, Coursera, and CloudGuru. I’m passionate about open-source software and love experimenting with cooking. My curiosity and enthusiasm drive me to continuously discover and learn new things.
+In my free time, I enjoy spending time with my family, traveling, reading sci-fi books, and exploring new skills on platforms like Udemy, Coursera, and CloudGuru. I’m passionate about open-source software and love experimenting with cooking. My curiosity and enthusiasm drive me to continuously discover and learn new things.
